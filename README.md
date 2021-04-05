@@ -1,7 +1,7 @@
-<h1 align="center">Eliana Gomez's GitHub</h1>
+<h1 align="center">Juan Torres's GitHub</h1>
 
 <p align='center'>
-  <img src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="500">
+  <img src=https://github.com/juanjts/juanjts/blob/main/giphy.gif width="500">
 </p>
 
 <h2 align="center">
@@ -22,13 +22,13 @@
 <h3>Where to find me:</h3>
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/eliana-gomez-suarez/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" />
+    <a href="https://www.linkedin.com/in/juan-jose-torres-suarez/" target="_blank"><img alt="LinkedIn" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" />
   </a>
-   <a href="mailto:elianagomez.s@outlook.com" target="_blank"><img alt="outlook" src="https://emojis.slackmojis.com/emojis/images/1531855342/4249/outlook.png?1531855342" width="50" />
+   <a href="mailto:juanjo.4555@gmail.com" target="_blank"><img alt="outlook" src="https://emojis.slackmojis.com/emojis/images/1531855342/4249/outlook.png?1531855342" width="50" />
   </a>
-    <a href="https://elianagomez.medium.com" target="_blank"><img alt="Medium" src="https://emojis.slackmojis.com/emojis/images/1538663342/4762/medium.png?1538663342" width="50" />
+    <a href="https://1843-1415.medium.com/" target="_blank"><img alt="Medium" src="https://emojis.slackmojis.com/emojis/images/1538663342/4762/medium.png?1538663342" width="50" />
   </a>
-  <a href="https://twitter.com/ElianaG2020" target="_blank"><img alt="Twitter" src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="50" />
+  <a href="https://twitter.com/juanjjts" target="_blank"><img alt="Twitter" src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="50" />
   </a>
  
 </p>
